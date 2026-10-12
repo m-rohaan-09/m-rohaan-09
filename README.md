@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🔬 Currently working on my **Final Year Project (FYP)** focusing on [Brief FYP Topic, e.g., Predictive Analytics / NLP / Computer Vision].
+- 🔬 Currently working on my **Final Year Project (FYP)**.
 - 📊 Passionate about turning complex datasets into actionable insights and robust ML pipelines.
 - 🛠️ Building end-to-end data pipelines, predictive models, and web applications.
 - 📚 Continuous learner exploring Deep Learning, MLOps, and Large Language Models (LLMs).
